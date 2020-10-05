@@ -1,4 +1,4 @@
-FROM codewaysa/alpine:3.12.0_20200612
+FROM codewaysa/alpine:3.12.0_20200622
 
 LABEL org.ruby.version="2.7.1"
 LABEL image_name="codewaysa/ruby"
